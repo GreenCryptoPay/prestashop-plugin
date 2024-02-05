@@ -1,0 +1,10 @@
+
+[{shop_url}] 
+
+Hi, 
+
+Order № {id_order} paid through the Green Crypto Processing service
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

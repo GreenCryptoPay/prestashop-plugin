@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>greencryptopay</name>
+	<displayName><![CDATA[Green Crypto Processing]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Accept Bitcoin and other cryptocurrencies as a payment method with Green Crypto Processing]]></description>
+	<author><![CDATA[GreenCryptoPay]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

@@ -1,0 +1,10 @@
+
+{shop_url}
+
+Здравствуйте,
+
+Заказ № {id_order} оплачен через сервис Green Crypto Processing
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

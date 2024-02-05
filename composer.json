@@ -1,0 +1,13 @@
+{
+    "name": "greencryptopay/prestashop-plugin",
+    "description": "Green Crypto Processing - payment gateway for PrestaShop.",
+    "authors": [
+        {
+            "name": "Developers team",
+            "email": "support@greencryptopay.com"
+        }
+    ],
+    "require": {
+        "greencryptopay/greencryptopay-php": "^1.0"
+    }
+}
